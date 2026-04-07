@@ -77,8 +77,10 @@ The dashboard includes interactive charts with filters, expanders to view raw da
 ---
 
 
-## Note<img width="1365" height="675" alt="Screenshot 2026-04-07 133215" src="https://github.com/user-attachments/assets/b161c403-ed52-42c1-8ed9-d06428bd02b6" />
+<img width="1365" height="675" alt="Screenshot 2026-04-07 133215" src="https://github.com/user-attachments/assets/b161c403-ed52-42c1-8ed9-d06428bd02b6" />
 <img width="1265" height="575" alt="Screenshot 2026-04-07 133138" src="https://github.com/user-attachments/assets/e012a98d-64ac-4000-933e-b9c7854fa598" />
 <img width="1365" height="678" alt="Screenshot 2026-04-07 133130" src="https://github.com/user-attachments/assets/0fb6532b-033c-4c78-ad50-263a2f18b688" />
 
+
+## Note
 This project was originally built in 5th Semester as a Data Visualization assignment. It has been version controlled using Git and GitHub in 8th Semester.
